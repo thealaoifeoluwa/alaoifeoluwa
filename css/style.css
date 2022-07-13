@@ -3771,6 +3771,7 @@ figcaption {
   padding-bottom: 16px;
   font-family: "Space Grotesk Web", sans-serif;
   color: #fff;
+  line-height: 120%;
   font-size: 45px;
   font-weight: 900;
 }
