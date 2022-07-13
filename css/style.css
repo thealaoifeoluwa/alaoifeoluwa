@@ -5165,7 +5165,8 @@ html.w-mod-js [data-ix="load-up"] {
     padding-left: 30px;
   }
 }
-@media screen and (max-width: 767px) {
+
+/* @media screen and (max-width: 767px) {
   .column._100vh.black,
   .column.about.black {
     padding-left: 40px;
@@ -6235,7 +6236,7 @@ html.w-mod-js [data-ix="load-up"] {
     margin-top: 60px;
     margin-bottom: 74px;
   }
-}
+} */
 #w-node-c241dc12b9ba-694e6855 {
   -ms-grid-column: 1;
   grid-column-start: 1;
